@@ -5,4 +5,4 @@ streamlit-option-menu==0.3.2
 plotly==5.14.1
 subprocess
 os
-pickle
+pickle5
